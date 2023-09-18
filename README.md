@@ -1,2 +1,2 @@
 # Bangsa
-Mobile App
+Mobile App only FrontEnd
